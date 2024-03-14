@@ -1,2 +1,1 @@
-c'est le texte pour l'exercise en groupe de git-hub
-je modifie ton text
+test pour le push
