@@ -1,1 +1,2 @@
 ecris ce texte
+je modifie ton text git checkout feat/member-2!
